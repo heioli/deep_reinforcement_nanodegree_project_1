@@ -4,7 +4,7 @@ General information and setup instructions (adjusted from original file)
 
 ### Introduction
 
-This project trains an agent to navigate (and collect bananas!) in a large, square world.  
+In this project, we train an agent to navigate (and collect bananas!) in a large, square world.  
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
@@ -32,4 +32,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the instructions in `Navigation.ipynb` to perform the agent training. 
